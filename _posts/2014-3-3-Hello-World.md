@@ -8,7 +8,7 @@ To me, Chia seeds were this mysterious superfood to with magical powers to incre
 
 Not trying to knock fiber or anything. Fiber's important too! It helps you go to the bathroom regularly. Can't be dominating at adulting if you're stopped up, can you?
 
-According to [the brand I used](http://grocery.harristeeter.com/pd/Spectrum/Chia-Seed/12-oz/022506521063/), you can add it to yogurt, cereal, smoothies or salads. You can eat it whole or ground, raw or in baked goods. You can soak 'em in water to form a gel that can be flavored (which I guess is kinda what Chia Seed Pudding is all about). Apparently you can add some chia seeds to a water bottle to help keep the body hydrated during exercise (yea no. I like my water clear or with BCAAs, not with mysterious black gelatinous specks up in it). 
+According to [the brand I used](http://grocery.harristeeter.com/pd/Spectrum/Chia-Seed/12-oz/022506521063/), you can add it to yogurt, cereal, smoothies or salads. You can eat it whole or ground, raw or in baked goods. You can soak 'em in water to form a gel that can be flavored (which I guess is kinda what Chia Seed Pudding is all about). Apparently you can add some chia seeds to a water bottle to help keep the body hydrated during exercise (yea no. I like my water clear or with [BCAAS](http://www.bodybuilding.com/fun/bcaas-the-many-benefits-of-amino-acids.html), not with mysterious black gelatinous specks up in it). 
  
 As NomNomPaleo had not posted her Chia Pudding yet on her website,  I went ahead and found this recipe online featured by Joyful Healthy Eats. 
 
