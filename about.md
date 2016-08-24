@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /Welcome!/
 ---
 
 Hey, welcome to this website!  Just another female in her late twenties juggling career, marriage, fur-children, and fitness. I hope you become inspired by what you see throughout this web page. My original thought for this project was to chronicle my attempts at trying to follow different recipes that i pinned on pinterest. Most of the recipes featured on this website will be with "clean eating" in mind. Meaning, all that fake preservative shit? No thanks. Granted, I am not a Sith so I guarantee there will be SOME exceptions, probably with some holiday recipes. Just forewarning you.
