@@ -22,7 +22,7 @@ And voila. Cocinando RX'ed was born.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+coming soon!!
 
 ### Contact me
 
