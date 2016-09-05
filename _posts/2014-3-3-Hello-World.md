@@ -21,6 +21,8 @@ This recipe called for
 
 This recipe yielded 2-3 servings of result/product. I feel like I'm talking about a chemistry experiment. Anyways, it seemed very liquidy when I made it last night, around the 2100 hour. By the afternoon of the next day, it was the perfect consistency. It could even be a bit thicker IMO, which could be done by adjusting the liquid to seed ratio. 
 
+![Chia seed]({{ site.baseurl }}/images/IMG_3884.JPG)
+
 Again, what I like about this is the natural sweetness of the coconut milk, the honey, and the vanilla extract. THIS WILL NOT TASTE LIKE ICE CREAM OR VANILLA PUDDING, you will be sadly disappointed if you go into this with those expectations! That being said, what i also like about this recipe is how you can customize it. In addition to adjusting the thickness by adjusting the liquid to seed ratio, you can add to the sweetness or texture by adding:
 
 A different type of milk (almond, soy, rice), fruit, granola, cinnamon,cocoa powder, almond slivers, toasted coconut. Just to name a few off the top of my head. And of course, this goes without saying, but any addition or alteration would adjust the macros. When I made this recipe again, I included a whole can of full-fat coconut milk (plus enough water to make two cups of liquid), and about 1/4 c of chia seeds. Like I said, its all about preference.
@@ -33,7 +35,7 @@ Comment below with your thoughts! If you tried the recipe or any other similar o
 
 Enjoy 
 
-![Chia seed]({{ site.baseurl }}/images/IMG_3884.JPG)
+
 
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
