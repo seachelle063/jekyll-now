@@ -29,7 +29,7 @@ A different type of milk (almond, soy, rice), fruit, granola, cinnamon,cocoa pow
 
 Comment below with your thoughts! If you tried the recipe or any other similar ones, please share! What toppings do you like in your chia seed pudding?
 
-
+![Chia seed2]({{_site.baseurl_}}/images/IMG_3893-1.JPG
 
 
 
@@ -38,4 +38,4 @@ Enjoy
 
 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
