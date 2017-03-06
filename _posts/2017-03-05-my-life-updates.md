@@ -1,7 +1,7 @@
 ---
 published: false
 layout: post
-permalink: /My-Life-Updates
+permalink: /M
 ---
 
 
