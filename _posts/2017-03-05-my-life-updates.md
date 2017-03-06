@@ -1,5 +1,7 @@
 ---
 published: false
+layout: post
+permalink: /My-Life-Updates
 ---
 
 
@@ -19,8 +21,4 @@ Fast forward until today, March of 2017. I am twenty five weeks pregnant (six mo
 
 I’ve been posting a ton of my food pics on my insta (@seachellegrams); and I will be back to incorporating some recipes here! Promise! I take most pics with my iPhone 7, which does have an excellent camera, but we just ordered a mirrorless camera which will allow me to take professional-grade shots.I hope to get to posting once every other week or so, I think that is manageable! 
 
-Are you a fellow #fitprego ? Holler back in the comments!  
-
-
-
-
+Are you a fellow #fitprego ? Holler back in the comments!
