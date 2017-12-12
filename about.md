@@ -15,15 +15,10 @@ I'm not sure of when and how I had my moment of clarity, but I did research. I e
 
 Folks, the equation is simple. Burn more energy than what you consume. Creating a caloric deficit = you WILL LOSE WEIGHT. AND MOST OF THAT WEIGHT WILL BE FAT. By the end of 2015/beginning of 2016, I had weaned myself off of my anti-depressant (I would not recommend that, by the way). My blood pressure stabilized and with my primary care provider's blessing, I stopped those pills too. My BMI dipped to the low range of the 20's, which means normal for my height and weight. I was working out 3-5 times per week. And I felt good.  My husband started eating the same way and working out more, and he dropped BMI points as well. We were literally vanishing before people's eyes.
 
-For the past year or two, I have been posting on my Instagram about my culinary re-creations, and more recently on my SnapChat. In many of the recipes posted on this site, I focus on the macro-nutritional content  as it is available. [Read this to gain an understanding of why you should keep track of these.](http://www.bodybuilding.com/content/to-macro-or-not-should-you-track-your-macro-intake.html) "Meeting your Macro" goals is an important part of getting leaner and stronger. Current 2016 goals: Crossfit 4-5 times per week, and eat to gain muscle mass/get stronger.
-
-And then I had this idea in mid- 2016: why don't I create a blog that combined my passions of Crossfit, cooking, and lifestyle? I even had the idea to try and learn code and develop my own website with my nerd husband's help. Epic fail. So I'm doing the content, hes doing the execution.
+For the past couple of years, I have been posting on my Instagram about my culinary re-creations, and more recently on my SnapChat. In many of the recipes posted on this site, I focus on the macro-nutritional content  as it is available. [Read this to gain an understanding of why you should keep track of these.](http://www.bodybuilding.com/content/to-macro-or-not-should-you-track-your-macro-intake.html) "Meeting your Macro" goals is an important part of getting leaner and stronger. In 2016, I had this idea: why don't I create a blog that combined my passions of Crossfit, cooking, and lifestyle? Now, in late 2017, my focus is shifting to the fundamental transition question: How do I balance all of the aforementioned after having a child? 
 
 And voila. Cocinando RX'ed was born. 
 
-### More Information
-
-coming soon!!
 
 ### Contact me
 
